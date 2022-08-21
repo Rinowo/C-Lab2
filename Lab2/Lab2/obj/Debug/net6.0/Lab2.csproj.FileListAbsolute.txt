@@ -1,0 +1,5 @@
+F:\T2106\C Sharp\Git\C-Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.csproj.AssemblyReference.cache
+F:\T2106\C Sharp\Git\C-Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+F:\T2106\C Sharp\Git\C-Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfoInputs.cache
+F:\T2106\C Sharp\Git\C-Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfo.cs
+F:\T2106\C Sharp\Git\C-Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.csproj.CoreCompileInputs.cache
